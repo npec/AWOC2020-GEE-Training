@@ -107,7 +107,7 @@ Many Celebrity Use Case https://earthengine.google.com/case_studies/
 
 [Timelapse](https://earthengine.google.com/timelapse#v=24.99902,54.99209,11.872,latLng&t=2.03&ps=50&bt=19840101&et=20181231&startDwell=0&endDwell=0)
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/Timelapse.gif](attachment:Timelapse.gif)
+![https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/Timelapse.gif](attachment:Timelapse.gif)
 
 <span style="font-weight: bold; font-size:1.3em;">The global distribution and trajectory of tidal flats</span>  
 <span style="font-size: 0.8em">Nicholas J. Murray, Stuart R. Phinn, Michael DeWitt, Renata Ferrari, Renee Johnston, Mitchell B. Lyons, Nicholas Clinton, David Thau & Richard A. Fuller</span>
