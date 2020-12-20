@@ -1,4 +1,4 @@
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesnpec.PNG](attachment:npec.PNG)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/npec.PNG](attachment:npec.PNG)
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
 
 <span style="font-family:Papyrus; font-size:2em;">Eligio Maure</span>
@@ -37,7 +37,7 @@ _**The repository will show up in your GEE code editor**_
   &#8594; **users/nwatchs/AWOC2020** (more on this later)
 
 <span style="font-size:1.3em; font-weight:bold">Earth Engine Developer's Page</span>  https://developers.google.com/earth-engine
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesearth-engine-intro2.png](attachment:earth-engine-intro2.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/earth-engine-intro2.png](attachment:earth-engine-intro2.png)
 
 * <span style="color:rgb(120, 160, 210); font-weight:bold">Guides</span> - JavaScript & Python
 * <span style="color:rgb(120, 160, 210); font-weight:bold">Reference</span> - Client Libraries & Code Editor
@@ -95,7 +95,7 @@ table {float:left}
 
 <span style="color:rgb(200, 50, 50); font-weight: bold; font-size: 1.1em"> A cloud-based platform for planetary-scale geospatial analysis</span>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-paper.PNG](attachment:gee-paper.PNG)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-paper.PNG](attachment:gee-paper.PNG)
 
 ## Why Google Earth Engine?
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
@@ -107,35 +107,35 @@ Many Celebrity Use Case https://earthengine.google.com/case_studies/
 
 [Timelapse](https://earthengine.google.com/timelapse#v=24.99902,54.99209,11.872,latLng&t=2.03&ps=50&bt=19840101&et=20181231&startDwell=0&endDwell=0)
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesTimelapse.gif](attachment:Timelapse.gif)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/Timelapse.gif](attachment:Timelapse.gif)
 
 <span style="font-weight: bold; font-size:1.3em;">The global distribution and trajectory of tidal flats</span>  
 <span style="font-size: 0.8em">Nicholas J. Murray, Stuart R. Phinn, Michael DeWitt, Renata Ferrari, Renee Johnston, Mitchell B. Lyons, Nicholas Clinton, David Thau & Richard A. Fuller</span>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagestidal-case.PNG](attachment:tidal-case.PNG)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/tidal-case.PNG](attachment:tidal-case.PNG)
 
 _**https://www.intertidal.app/**_
 
 <span style="font-size:1.5em; font-weight: bold">Global Surface Water</span>
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imageswater-distro-app.PNG](attachment:water-distro-app.PNG)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/water-distro-app.PNG](attachment:water-distro-app.PNG)
 _**https://global-surface-water.appspot.com/map**_
 
 |<span style="font-weight: bold; color:brown; font-size: 2em">Online public data archive$~$</span> |
 |:---|
 <ul><li><span style='font-size: 1.3em'>A petabyte (> 50) storage accessible through GEE APIs</span></li><li><span style='font-weight:bold; font-size: 1.3em; color:rgb(255, 110, 0)'>Unfortunately, ocean colour data repository still very poor</span></ul></li>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-data-catalogue.PNG](attachment:gee-data-catalogue.PNG)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-data-catalogue.PNG](attachment:gee-data-catalogue.PNG)
 
 <span style="font-size:1.2em; font-weight:bold">However</span>...   
 <span style="font-size:1.1em"> > We can upload own datasets (up to 10 GB)</span>  
 <span style="font-size:1.1em">> Make dataset requests</span>  
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-upload-asset.png](attachment:gee-upload-asset.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-upload-asset.png](attachment:gee-upload-asset.png)
 
 <span style="font-weight:bold; font-size:1.3em">Flexible access through APIs</span>  
 Rapid visualization of complex spatial analyses  
 _**API &#8594; application programming interface**_
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesGEE_Languages_2.PNG](attachment:GEE_Languages_2.PNG)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/GEE_Languages_2.PNG](attachment:GEE_Languages_2.PNG)
 
 <span style="font-weight:bold; font-size:1.3em">[EE Explorer](https://explorer.earthengine.google.com/#workspace)</span> 
  <hr style="border:2px solid rgb(30,70,125)"></hr>
@@ -144,7 +144,7 @@ _**API &#8594; application programming interface**_
 - Does not require registration!  
 
 [Introductory materials](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/)
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesearth-engine-explorar.png](attachment:earth-engine-explorar.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/earth-engine-explorar.png](attachment:earth-engine-explorar.png)
 
 |<span style="font-weight:bold; font-size:1.5em">How GEE works</span>|
 |:---|
@@ -153,7 +153,7 @@ Written commands can be sent as requests object to Google's cloud for compution
 <span style="color:brown; font-weight:bold; font-size:1.2em">Client-side</span>
 Results sent back can be visualized in the browser
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-howitworks.png](attachment:gee-howitworks.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-howitworks.png](attachment:gee-howitworks.png)
 
 <span style="color: blue; font-size:1.3em; font-weight: bold">GEO-GEE License Project: 32 Projects (22 Countries) </span>  
 Aim to tackle some of the world’s greatest challenges using open Earth data   
@@ -162,7 +162,7 @@ Aim to tackle some of the world’s greatest challenges using open Earth data
 **`Global screening of potential eutrophication waters`**  
 **`SGLI 250 m data for mapping of near-coastal waters`**
     
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgeo-projects.PNG](attachment:geo-projects.PNG)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/geo-projects.PNG](attachment:geo-projects.PNG)
 
 <span style='font-size: 1.2em; font-weight:bold'> Summary </span>
 - <span style='color:rgb(0,150,0)'>GEE is great tool operating on petabyte imagery using Google’s cloud</span>  
@@ -198,27 +198,27 @@ Aim to tackle some of the world’s greatest challenges using open Earth data
 ## <span style="font-weight:bold; color:red">Data Search & Help</span>
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-code-editor-01.png](attachment:gee-code-editor-01.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-code-editor-01.png](attachment:gee-code-editor-01.png)
 
 ## <span style="font-weight:bold; color:red">Scripts, Docs & Assets</span>
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-code-editor-02.png](attachment:gee-code-editor-02.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-code-editor-02.png](attachment:gee-code-editor-02.png)
 
 ## <span style="font-weight:bold; color:red">Code Editor</span>
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-code-editor-03.png](attachment:gee-code-editor-03.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-code-editor-03.png](attachment:gee-code-editor-03.png)
 
 ## <span style="font-weight:bold; color:red">Inspector, Console & Tasks</span>
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-code-editor-04.png](attachment:gee-code-editor-04.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-code-editor-04.png](attachment:gee-code-editor-04.png)
 
 ## <span style="font-weight:bold; color:red">The Map</span>
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-code-editor-05.png](attachment:gee-code-editor-05.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-code-editor-05.png](attachment:gee-code-editor-05.png)
 
 [code editor](https://code.earthengine.google.com/)
 
@@ -492,7 +492,7 @@ Map.addLayer(someImage, {}, 'someImage')
 `.map(...)` vs. `for(...)`  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$        [code editor](https://code.earthengine.google.com/)
 <hr style="border:2px solid rgb(30,70,125)"> </hr>    
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-map.png](attachment:gee-map.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-map.png](attachment:gee-map.png)
 
 
 
@@ -521,7 +521,7 @@ Map.addLayer(someImage, {}, 'someImage')
 **Reduce - Aggregate everything in a collection**  
 <span style="font-style: italic; color: blue">reducer</span> - an EE operation for aggregating data or computing a statistic
  
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-reduce-space.png](attachment:gee-reduce-space.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-reduce-space.png](attachment:gee-reduce-space.png)
 
 ### Reduce Region
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
@@ -529,7 +529,7 @@ Apply a reducer over an image with several bands
 
 [code editor](https://code.earthengine.google.com/)
 
-![https://github.com/npec/AWOC2020-GEE-Training/tree/main/imagesgee-reduce-space01.png](attachment:gee-reduce-space01.png)
+![https://github.com/npec/AWOC2020-GEE-Training/tree/main/images/gee-reduce-space01.png](attachment:gee-reduce-space01.png)
 
 # Time Series Analysis ([hands-on](https://code.earthengine.google.com/))
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
